@@ -14,7 +14,7 @@ https://github.com/TravisBoatright/a-design-history
 <br>Design, Design history, Coffee (regions, varietals, brew methods...)
 
 - 📫 <em>How to reach me: ...</em>
-<br>Twitter: @travisboatright
+<br>Twitter: <a href="https://www.twitter.com/travisboatright">@travisboatright</a>
 
 
 <!--
