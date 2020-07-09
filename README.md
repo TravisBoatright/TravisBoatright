@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-Researching Black Design History in the 20th Century
+- 🔭 <em>I’m currently working on ...</em>
+<br>Researching Black Design History in the 20th Century
 https://github.com/TravisBoatright/a-design-history
 
-- 🌱 I’m currently learning ...
-VIM!
+- 🌱 <em>I’m currently learning ...</em>
+<br>VIM!
 
-- 🤔 I’m looking for help with ...
-Javascript! My background is in design and currently learning front-end development. With JS, a struggle with the math side of things and remembering loop syntax.
+- 🤔 <em>I’m looking for help with ...</em>
+<br>Javascript! My background is in design and currently learning front-end development. With JS, a struggle with the math side of things and remembering loop syntax.
 
-- 💬 Ask me about ...
-Design, Design history, coffee varietals and regions
+- 💬 <em>Ask me about ...</em>
+<br>Design, Design history, Coffee (regions, varietals, brew methods...)
 
-- 📫 How to reach me: ...
-Twitter: @travisboatright
+- 📫 <em>How to reach me: ...</em>
+<br>Twitter: @travisboatright
 
 
 <!--
