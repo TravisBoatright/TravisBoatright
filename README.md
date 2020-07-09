@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 <em>I’m currently working on ...</em>
-<br><a href="https://github.com/TravisBoatright/a-design-history">Researching Black Design History in the 20th Century</a>
+<br><a href="https://github.com/TravisBoatright/a-design-history" target="_blank">Researching Black Design History in the 20th Century</a>
 
 - 🌱 <em>I’m currently learning ...</em>
 <br>VIM!
@@ -13,5 +13,5 @@
 <br>Design, Design history, Coffee (regions, varietals, brew methods...)
 
 - 📫 <em>How to reach me: ...</em>
-<br>Twitter: <a href="https://www.twitter.com/travisboatright">@travisboatright</a>
-<br>Site: <a href="https://travisboatright.com">travisboatright.com</a>
+<br>Twitter: <a href="https://www.twitter.com/travisboatright" target="_blank">@travisboatright</a>
+<br>Site: <a href="https://travisboatright.com" target="_blank">travisboatright.com</a>
