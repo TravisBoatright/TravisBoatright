@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 <em>I’m currently working on ...</em>
-<br><a href="https://github.com/TravisBoatright/a-design-history" target="_blank">Researching Black Design History in the 20th Century</a>
+<a href="https://glitch.com/@travisboatright">Making fun things over on Glitch!</a><br>
 
 - 🌱 <em>I’m currently learning ...</em>
 <br>VIM!
