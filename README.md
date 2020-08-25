@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 <em>I’m currently working on ...</em>
+- 🔭 <em>I’m currently working on ...</em><br>
 <a href="https://glitch.com/@travisboatright">Making fun things over on Glitch!</a><br>
 
 - 🌱 <em>I’m currently learning ...</em>
